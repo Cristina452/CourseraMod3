@@ -1,5 +1,5 @@
 # CourseraMod3
-# Simple Interest Calculator
+# Simple Interest Calculator forked by Cristina1297.
 
 This project contains a bash script for calculating simple interest. It is the first step in a larger initiative to migrate a simple interest calculation application from Subversion (SVN) to Git.
 
